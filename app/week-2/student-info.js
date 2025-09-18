@@ -3,12 +3,12 @@ import Link from "next/link";
 export default function StudentInfo() {
   return (
     <main>
-      <h1>CPRG 306: Web Development 2 - Assignments</h1>
+      <h1>Muhammad Bilal Choudhry</h1>
       <Link 
-        href="http://localhost:3000/week-2" 
+        href="https://github.com/Bilal-Choudhry-Git/cprg306-assignments" 
         target="_blank"
       >
-        A link to the week-2 page
+        Github Repository
       </Link>
     </main>
   );
