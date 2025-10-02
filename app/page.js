@@ -21,6 +21,14 @@ export default function StudentInfo() {
         Week-3 Page
       </Link>
       </h2>
+      <h2>
+      <Link 
+        href="http://localhost:3000/week-4"
+        target="_blank"
+      >
+        Week-4 Page
+      </Link>
+      </h2>
     </main>
   );
 }
