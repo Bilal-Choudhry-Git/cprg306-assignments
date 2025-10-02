@@ -11,8 +11,6 @@ export default function NewItem() {
       }
     };
 
-
-
  const decrement = () => {
       if (quantity > 1) {
         setQuantity(quantity - 1 );
