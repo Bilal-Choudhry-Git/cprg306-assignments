@@ -53,6 +53,14 @@ export default function StudentInfo() {
         Week-7 Page
       </Link>
       </h2>
+      <h2>
+      <Link 
+        href="/week-8"
+        target="_blank"
+      >
+        Week-8 Page
+      </Link>
+      </h2>
     </main>
   );
 }
