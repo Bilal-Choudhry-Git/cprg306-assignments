@@ -69,6 +69,14 @@ export default function StudentInfo() {
         Week-9 Page
       </Link>
       </h2>
+      <h2>
+      <Link 
+        href="/week-10"
+        target="_blank"
+      >
+        Week-10 Page
+      </Link>
+      </h2>
     </main>
   );
 }
